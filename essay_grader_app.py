@@ -87,11 +87,10 @@ iface = gr.Interface(
     inputs="text",
     outputs="text",
     title="Al Hussein Technical University Essay Grader",
-    server_name="0.0.0.0",
-    server_port=7860,
     examples=[["Example essay text"]],
     thumbnail=display_logo
 )
-iface.launch(share=True)
+iface.launch(share=False, server_port=7860)
+
 
 
