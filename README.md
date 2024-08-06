@@ -1,6 +1,6 @@
 # ESL-Essay-Grader
 
-# Al Hussein Technical University Essay Grader
+# Easy Essay Grader
 
 ## Introduction
 
