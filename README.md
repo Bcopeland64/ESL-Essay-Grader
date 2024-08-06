@@ -1,5 +1,3 @@
-# ESL-Essay-Grader
-
 # Easy Essay Grader
 
 ## Introduction
